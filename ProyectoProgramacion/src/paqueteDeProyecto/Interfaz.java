@@ -12,7 +12,7 @@ public class Interfaz {
 		
 		JOptionPane.showInputDialog(null, "Prueba 2 Github");
 		
-	
+		JOptionPane.showInputDialog(null, "Prueba 3 Github Vanessa");
 		
 		
 
